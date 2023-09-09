@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/amarex757/Downloads/flask-survey-c/venv"
+VIRTUAL_ENV="/Users/amarex757/Documents/Springboard/flask-survey/further/venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
